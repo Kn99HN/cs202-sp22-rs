@@ -6,6 +6,8 @@ Notes and code examples for [CS202: Operating Systems](https://cs.nyu.edu/~mwalf
 ## Schedule:
 
 Thursday 1/27: C review
+[Notes](https://cs.nyu.edu/~mwalfish/classes/22sp/lectures/rs01.txt)
+[Whiteboard](https://cs.nyu.edu/~mwalfish/classes/22sp/lectures/rs-scribble01.pdf)
 
 Thursday 2/10: C review (continued) + Lab 2 overview
 

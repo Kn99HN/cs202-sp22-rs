@@ -13,6 +13,10 @@ Thursday 1/27: C review
 
 Thursday 2/10: C review (continued) + Lab 2 overview
 
+[Notes](https://cs.nyu.edu/~mwalfish/classes/22sp/lectures/rs02.txt)
+
+[Whiteboard](https://cs.nyu.edu/~mwalfish/classes/22sp/lectures/rs-scribble02.pdf)
+
 Thursday 2/24: C++ primer + Lab 3 overview
 
 Thursday 3/24: Lab 4 overview

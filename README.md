@@ -30,3 +30,8 @@ Thursday 3/24: Lab 4 overview
 [Whiteboard](https://cs.nyu.edu/~mwalfish/classes/22sp/lectures/rs-scribble04.pdf)
 
 Thursday 4/14: Lab 5 overview
+
+
+[Notes](https://cs.nyu.edu/~mwalfish/classes/22sp/lectures/rs05.txt)
+
+[Whiteboard](https://cs.nyu.edu/~mwalfish/classes/22sp/lectures/rs-scribble05.pdf)
